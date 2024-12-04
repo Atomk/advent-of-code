@@ -74,7 +74,8 @@ def part2(data_file_path):
 
     return safe_count
 
-# TODO this does not work, I know the reason but I was really tired and fell asleep while thinking up a proper solution
+# NOTE This does not work, I know the reason (when there's an error I remove the current item but maybe the problem is in the next one)
+# but I was really tired and fell asleep while thinking up a proper solution
 # I understood the assignment incorrectly and I also lost some time on premature optimization
 # I'll put this on hold so I can work on day 3 but I'm sure I can solve this in the optimal way
 # If it turns out to be unreadable I'll just brute-force it, we can accept compromises
