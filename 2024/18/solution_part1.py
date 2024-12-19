@@ -165,9 +165,9 @@ work here due to the big empty areas. So my question was the wring question, why
 to recycle what I have already done?
 Honestly I was procrastinating breadth-first traversal because admittedly I know it exists
 but i've never implemented it, I just know it exists and more or less how it works visually
-on trees. It also sounded a bit more memory hungry than DPS, but now I'd say I'm not
+on trees. It also sounded a bit more memory hungry than DFS, but now I'd say I'm not
 qualified enough to make these claims yet.
-(fun fact: I found out about the acronym DPS and BFS like a week ago)
+(fun fact: I found out about the acronym DFS and BFS like a week ago)
 As I said I had no idea how to implement it but more or less knew what it should do,
 so after doing some sketches on Paint I had the big picture in mind.
 ---

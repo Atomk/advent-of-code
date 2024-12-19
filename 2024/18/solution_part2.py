@@ -98,7 +98,7 @@ This is a glorious moment of revenge against the first part of the puzzle.
 Pat on the back to myself for checking only "bytes" after the original
 input limit, since we already know that value result in a successful path to the end.
 I guess I was a bit lucky that in the first part I decided to make the BFS return a value,
-while for the DPS I just checked the value of the end tile after the function call.
+while for the DFS I just checked the value of the end tile after the function call.
 """
 
 answer_sample = solution("./sample_input.txt", 6, 12)
